@@ -22,7 +22,7 @@
 ### 🔹 Клонируй репозиторий
 
 ```bash
-git clone https://github.com/твой-профиль/todo-api.git
+git clone https://github.com/Skullexxxx/todo_fastapi.git
 cd todo-api
 ```
 
